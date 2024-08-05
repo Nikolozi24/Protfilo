@@ -9,7 +9,7 @@ In the project directory, you can run:
 npm start 
 ```
 
-#install node modules
+## install node modules
 
 ```
    npm install
